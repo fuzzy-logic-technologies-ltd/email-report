@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 """ info on where to message to and from """
 fromaddr = 'test@gmail.com'	# CHANGE TO: the email address the message will send from
 password = '*****'	# CHANGE TO: the password for fromaddr
-toaddr = 'ypazyniuk@ukr.net'	# CHANGE TO: the email address the message will be sent to
+toaddr = 'redacted@gmail.com'	# CHANGE TO: the email address the message will be sent to
 
 """ set up the message"""
 msg = MIMEMultipart()
